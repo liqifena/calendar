@@ -1,24 +1,6 @@
-# calendar
+# 一个显示农历的vue3日历行程组件
 
-## Project setup
-```
-yarn install
-```
+![image](https://github.com/user-attachments/assets/966408aa-3ee8-4d55-8dab-8f07fa01229a)
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
 
-### Compiles and minifies for production
-```
-yarn build
-```
 
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
